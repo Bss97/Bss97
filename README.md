@@ -1,5 +1,7 @@
 ### Hi there, welcome to the jungle! I'm Bryan 🙋🏻‍♂️
 
+I'm from Brazil, currently looking for a job opportunity
+
 "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
 
  <div>
