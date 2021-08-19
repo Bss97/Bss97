@@ -30,7 +30,7 @@ I'm from Brazil, currently looking for a job opportunity
  
 </div>
 
-
+![Snake animation](https://github.com/Bss97/Bss97/blob/output/github-contribution-grid-snake.svg)
 
 
 
